@@ -1,1 +1,1 @@
-# taln_pii_cs
+# Source code repo for TALN inc PII Case Study 
